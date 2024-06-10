@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ejons\\source\\repos\\GuessingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF1CD2F-D16D-4572-A1BD-A29ED68C176C}|GuessingGame\\GuessingGame.csproj|c:\\users\\ejons\\source\\repos\\guessinggame\\guessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF1CD2F-D16D-4572-A1BD-A29ED68C176C}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF1CD2F-D16D-4572-A1BD-A29ED68C176C}|GuessingGame\\GuessingGame.csproj|c:\\users\\ejons\\source\\repos\\guessinggame\\guessinggame\\controllers\\guessinggamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF1CD2F-D16D-4572-A1BD-A29ED68C176C}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\controllers\\guessinggamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF1CD2F-D16D-4572-A1BD-A29ED68C176C}|GuessingGame\\GuessingGame.csproj|c:\\users\\ejons\\source\\repos\\guessinggame\\guessinggame\\views\\guessinggame\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABF1CD2F-D16D-4572-A1BD-A29ED68C176C}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\views\\guessinggame\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\GuessingGame\\GuessingGame\\Views\\GuessingGame\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuessingGame\\Views\\GuessingGame\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\GuessingGame\\GuessingGame\\Views\\GuessingGame\\Index.cshtml",
+              "RelativeToolTip": "GuessingGame\\Views\\GuessingGame\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:05:31.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\GuessingGame\\GuessingGame\\Program.cs",
+              "RelativeDocumentMoniker": "GuessingGame\\Program.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\GuessingGame\\GuessingGame\\Program.cs",
+              "RelativeToolTip": "GuessingGame\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:04:50.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuessingGameController.cs",
+              "DocumentMoniker": "C:\\Users\\ejons\\source\\repos\\GuessingGame\\GuessingGame\\Controllers\\GuessingGameController.cs",
+              "RelativeDocumentMoniker": "GuessingGame\\Controllers\\GuessingGameController.cs",
+              "ToolTip": "C:\\Users\\ejons\\source\\repos\\GuessingGame\\GuessingGame\\Controllers\\GuessingGameController.cs",
+              "RelativeToolTip": "GuessingGame\\Controllers\\GuessingGameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:03:32.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
